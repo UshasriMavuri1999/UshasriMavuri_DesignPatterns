@@ -1,0 +1,14 @@
+[main] DEBUG structuralPatterns.ProxyPatternClient  - Debugging started in ProxyPatternClient
+[main] DEBUG structuralPatterns.ProxyPatternClient  - Debugging started in ProxyPatternClient
+[main] DEBUG creationalPatterns.ObjectPoolDemo  - Debugging started in ObjectPoolDemo
+[main] DEBUG creationalPatterns.ObjectPoolDemo  - Debugging started in ObjectPoolDemo
+[main] DEBUG creationalPatterns.ObjectPoolDemo  - Debugging started in ObjectPoolDemo
+[main] DEBUG structuralPatterns.ProxyPatternClient  - Debugging started in StrategyPatternDemo
+[main] DEBUG structuralPatterns.ProxyPatternClient  - Debugging started in StrategyPatternDemo
+[main] WARN  structuralPatterns.ProxyPatternClient  - Please enter two values(in float)
+[main] INFO  structuralPatterns.ProxyPatternClient  - Addition class started....
+[main] INFO  structuralPatterns.ProxyPatternClient  - Subtraction class started
+[main] INFO  structuralPatterns.ProxyPatternClient  - Multiplication class started
+[main] DEBUG creationalPatterns.ObjectPoolDemo  - Debugging started in ObjectPoolDemo
+[main] INFO  creationalPatterns.ObjectPoolDemo  - Executing 8 tasks in separate threads
+[main] DEBUG structuralPatterns.ProxyPatternClient  - Debugging started in ProxyPatternClient
